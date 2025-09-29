@@ -60,7 +60,7 @@ Used Power query to upivot columns and assign data types for easier use in the P
 ![unpivot.gif](assets/unpivot.gif)
 
 ## Learnings and Conclusion
-Going into this project, I already had experience using Power BI and I wanted to both refine my querying skills and learn how to connect Power BI to a database server. Overall, this project enhanced my SQL client management skills as well as teaching me a few things about regular expressions.
+This is actually my first ever dashboard in Power BI. I just finished a few datacamp tracks about the tool and was really intrigued so I went in and tried it myself. While I was trying the tool out, I saw a [post](https://web.facebook.com/share/p/19Vp6Ym3ck/) from DataSense Analytics on a competition about making a dashboard. So, I joined and tried my best to win, sadly I did not reach the finalist, but it was a great learning experience.
 
 ## Installation
 ### Prerequisites
